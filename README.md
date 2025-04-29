@@ -32,3 +32,14 @@ Step 3 - Used For loop and range to repeat code 3000 times
 Step 4 - Used While loop and functions to create different shapes
 
 Step 5 - Used python codes to change color of spiral and create beuatiful spirals
+![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20%26%20PNG/python%20geomentry%20design.png)
+
+
+
+# Angry Bird Game With Coding Blocks
+
+Step 1 - Developed an angry bird game with coding blocks
+
+Steps 2 - The game uses fully functional code to take angry bird towards pig
+
+Step 3 - Target is to kill the pig and you win the game
