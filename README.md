@@ -18,3 +18,17 @@ Step 7. Created another knowledge base and coneccted it to the web search for li
 
 Step 8. Enabled the AI Expression
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20%26%20PNG/chatbot%20img.png)
+
+
+
+# Python Project - Creating Drawings
+
+Step 1 - I created a python script to create visuals of geometry design
+
+Step 2 - Used Python Librariy "Turtle"
+
+Step 3 - Used For loop and range to repeat code 3000 times
+
+Step 4 - Used While loop and functions to create different shapes
+
+Step 5 - Used python codes to change color of spiral and create beuatiful spirals
