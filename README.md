@@ -17,4 +17,4 @@ Step 6. Trained the chatbot on provided data in the knowledge base
 Step 7. Created another knowledge base and coneccted it to the web search for live data scrapping
 
 Step 8. Enabled the AI Expression
-![]()
+![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20%26%20PNG/chatbot%20img.png)
