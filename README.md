@@ -61,3 +61,5 @@ Step 1 - Created a space game where user has to kill objects in order to save pl
 Step 2 - This game is developed using coding blocks on scratch
 
 Step 3 - The game overs if you touch the object
+![](![image](https://github.com/user-attachments/assets/f82814cf-cef5-4a66-b005-9b5a3ffc0a5d)
+![](
