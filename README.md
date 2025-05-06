@@ -44,3 +44,11 @@ Steps 2 - The game uses fully functional code to take angry bird towards pig
 
 Step 3 - Target is to kill the pig and you win the game
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20&%20PNG/Screenshot%202025-02-08%20170712.png?raw=true)
+
+# Racing Game
+
+Step 1 - Created a Racing game using Scratch
+
+Step 2 - Used coding blocks to develop the game
+
+Step 3 - Racing game shows the racing of two cars
