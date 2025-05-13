@@ -65,3 +65,11 @@ Step 3 - The game overs if you touch the object
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/unnamed.png?raw=true)
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20&%20PNG/spacegame%203.png?raw=true)
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20&%20PNG/space%20game%204.png?raw=true)
+
+# Ice Age Game
+
+Step 1 :  Built a game with coding blocks
+
+Step 2: Added different modules and levels 
+
+Step3: Deployed the game
