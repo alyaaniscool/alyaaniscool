@@ -75,3 +75,8 @@ Step 2: Added different modules and levels
 Step3: Deployed the game
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20%26%20PNG/ice%20age%20game.png)
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/IMAGES%20%26%20PNG/ice%20age%20game%202.png)
+# Music Lab
+Step 1:  Created music lab Project 
+Step2:  Using coding blocks created different mmusic nodes1
+Step 3:  Deployed the project
+![](
