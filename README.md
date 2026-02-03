@@ -1,5 +1,15 @@
 # dog image classification model
 
+Step 1: I created a fully funtional AI  image classification model using Tensorflow, Keras and Yolo
+
+Step 2: I used Google Teachable machine to train the model
+
+Step 3: Accuracy of model is 95%
+
+Step 4: Iamge detection is 100% as shown below in the images
+
+Step 5: Screenshots of code and modle training process have been shared below
+
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol%201.png?raw=true)
 
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol%202.png?raw=true)
@@ -10,7 +20,7 @@
 
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol%205.png?raw=true)
 
-![]()
+![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol6.png?raw=true)
 
 # Ai powered website :D
 1.Created a fully functional ai powered website using site 123
