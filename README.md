@@ -1,11 +1,16 @@
 # dog image classification model
 
+![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol%201.png?raw=true)
+
 ![]()
 
+![]()
 
+![]()
 
+![]()
 
-
+![]()
 
 # Ai powered website :D
 1.Created a fully functional ai powered website using site 123
