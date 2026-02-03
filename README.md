@@ -2,7 +2,7 @@
 
 ![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol%201.png?raw=true)
 
-![]()
+![](https://github.com/alyaaniscool/alyaaniscool/blob/main/lol%202.png?raw=true)
 
 ![]()
 
